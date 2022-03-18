@@ -1,1 +1,2 @@
-test1 을 test2 로 바꾸었습니다.
+test1 을 test2 로 바꾸었습니다. 
+test2 를 test3으로 바꾼다.
